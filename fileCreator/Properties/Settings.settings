@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="fileCreator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="fichierEntrant" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\alvin.ondzounga\Documents\DossierSAV_Headers_v2.txt</Value>
+    </Setting>
+    <Setting Name="repertoire" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\alvin.ondzounga\Documents\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

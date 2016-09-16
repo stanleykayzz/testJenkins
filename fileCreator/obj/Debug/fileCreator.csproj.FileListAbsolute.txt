@@ -1,0 +1,6 @@
+c:\users\alvin.ondzounga\documents\visual studio 2015\Projects\fileCreator\fileCreator\bin\Debug\fileCreator.exe.config
+c:\users\alvin.ondzounga\documents\visual studio 2015\Projects\fileCreator\fileCreator\bin\Debug\fileCreator.exe
+c:\users\alvin.ondzounga\documents\visual studio 2015\Projects\fileCreator\fileCreator\bin\Debug\fileCreator.pdb
+c:\users\alvin.ondzounga\documents\visual studio 2015\Projects\fileCreator\fileCreator\obj\Debug\fileCreator.csprojResolveAssemblyReference.cache
+c:\users\alvin.ondzounga\documents\visual studio 2015\Projects\fileCreator\fileCreator\obj\Debug\fileCreator.exe
+c:\users\alvin.ondzounga\documents\visual studio 2015\Projects\fileCreator\fileCreator\obj\Debug\fileCreator.pdb
